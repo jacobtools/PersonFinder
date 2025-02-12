@@ -12,3 +12,6 @@ https://inspector-dev-panel.kesug.com/
 https://t.me/inspect_1
 
 
+Clone
+
+git clone https://github.com/jacobtools/PersonFinder
