@@ -4,6 +4,9 @@ PersonFinder
 
 Use The Username ( name & lastname )
 
-
+# My Profile About
 https://bit.ly/jacobtools 
-https://bit.ly/jacobtools ](https://inspector-dev-panel.kesug.com/)
+# Website
+https://inspector-dev-panel.kesug.com/
+# Telegram Channel
+https://t.me/inspect_1
